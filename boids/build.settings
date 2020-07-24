@@ -1,0 +1,15 @@
+settings =
+{	
+   plugins = {  
+      ['plugin.math2d'] = {publisherId = 'com.roaminggamer'}
+   },
+	window = {
+		defaultViewWidth = 720,
+		defaultViewHeight = 1280,
+	},
+    orientation =
+    {
+        default = "landscapeRight",
+        supported = { "landscapeLeft", "landscapeRight" },
+    },
+}
